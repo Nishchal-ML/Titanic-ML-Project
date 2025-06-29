@@ -25,7 +25,7 @@ Build a machine learning model that can accurately predict passenger survival us
   - Precision, Recall, F1-score
   - Confusion Matrix (with TP, TN, FP, FN explanation)
   - Cross-validation (3-fold)
-- ✅ Achieved **0.78708** on Kaggle public leaderboard (Top ~11%)
+- ✅ Achieved **0.78947** on Kaggle public leaderboard (Top ~11%)
 
 ---
 
@@ -53,7 +53,7 @@ Build a machine learning model that can accurately predict passenger survival us
 
 | Metric                    | Score     |
 |---------------------------|-----------|
-| Kaggle Leaderboard Score  | **0.78708** |
+| Kaggle Leaderboard Score  | **0.78947** |
 | Validation Accuracy       | ~83%      |
 | Cross-Validation (CV=3)   | ~81%      |
 
