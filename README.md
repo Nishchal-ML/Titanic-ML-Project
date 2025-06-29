@@ -62,7 +62,7 @@ Build a machine learning model that can accurately predict passenger survival us
 ## 📂 Project Structure
 
 📁 Titanic-Machine-Learning  
-├── Titanic_Project.ipynb
+├── Titanic_Project.ipynb  
 ├── submission.csv  
 └── README.md  
 
